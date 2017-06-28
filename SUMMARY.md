@@ -9,6 +9,8 @@
   * [2.5 PHP规范](2-团队规范/2.5-PHP规范.md)
   * [2.6 JAVA规范](2-团队规范/2.6-JAVA规范.md)
   * [2.7 数据库规范](2-团队规范/2.7-数据库规范.md)
-* [3 Laravel](3-Laravel/README.md)
-  * [3.1 最佳实践](3-Laravel/3.1-最佳实践.md)
+* [3 项目列表](3-项目列表/README.md)
+  * [3.1 微精弘](3-项目列表/3.1-微精弘.md)
+* [4 Laravel](4-Laravel/README.md)
+  * [4.1 最佳实践](4-Laravel/4.1-最佳实践.md)
 
